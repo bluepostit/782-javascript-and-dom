@@ -1,0 +1,33 @@
+h1 {
+  color: green;
+}
+
+body {
+  padding-bottom: 400px;
+}
+
+.btn {
+  color: red;
+  font-weight: bold;
+  background-color: black;
+}
+
+.red {
+  color: red;
+}
+
+#home {
+  display: inline-block;
+  padding: 20px 0;
+}
+
+
+.winner {
+  font-weight: bold;
+  /* color: rgb(69, 69, 236); */
+  color: red;
+}
+
+.round {
+  border-radius: 50%;
+}
